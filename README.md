@@ -30,4 +30,4 @@
 - Datasets: Thermal, RGB Pair Image Dataset
 - 과제 수행 파일: challenge.ipynb
 
-* 모든 챌린지는 jupyter notebook에서 수행하였습니다.
+모든 챌린지는 jupyter notebook에서 수행하였습니다.
